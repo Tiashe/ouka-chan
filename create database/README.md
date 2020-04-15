@@ -1,4 +1,4 @@
-You can download the compressed file from here() and run the code to create the db. you will need to change the file name and file path in the code itself.
+You can download the compressed file from here(http://files.pushshift.io/reddit/comments/) and run the code to create the db. you will need to change the file name and file path in the code itself.
 
 On linux we noticed that change that read file part to
 
