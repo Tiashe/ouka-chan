@@ -5,9 +5,9 @@ On linux we noticed that change that read file part to
 for row in sys.stdin:
         row_counter += 1
 
-        if row_counter > start_row:
-            try:
-                row = json.loads(row)
+                if row_counter > start_row:
+                 try:
+                        row = json.loads(row)
 
 instead of
 
